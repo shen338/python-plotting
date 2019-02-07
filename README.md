@@ -1,6 +1,6 @@
 # Python plotting 
 
-This repo presents several common python plotting functions with demos, saving people time from searching API or stackoverflow.
+This repo presents several common python plotting functions with demos, saving people time from searching API or stackoverflow.  
 There are not much instructions on each plot, just let the figures talk. 
 
 ## Categories
@@ -13,7 +13,27 @@ There are not much instructions on each plot, just let the figures talk.
 6. [Percentage Plot](Percentage.ipynb)
 7. [Other Useful Plot](Percentage.ipynb)
 
-## Cheatsheet 
+## Cheatsheet ([Source](https://python-graph-gallery.com/cheat-sheets/))
+
+
+
+- Diverging Color Palettes
+![Diverging Palettes](data/diverge.png)
+
+- Categorical Color Palettes
+![Categorical](data/categorical.png)
+
+- Sequential Color Palettes
+![Sequential](data/sequential.png)
+
+- Seaborn CheatSheet
+![seaborn](data/Seaborn_Cheatsheet.png)
+
+- Matplotlib CheatSheet
+![Matplotlib](data/Matplotlib_cheatsheet.png)
+
+- Pandas CheatSheet
+![Pandas](data/Pandas_Cheatsheet.png)
 
 ## Contact
 
