@@ -15,8 +15,6 @@ There are not much instructions on each plot, just let the figures talk.
 
 ## Cheatsheet ([Source](https://python-graph-gallery.com/cheat-sheets/))
 
-
-
 - Diverging Color Palettes
 ![Diverging Palettes](data/diverge.png)
 
@@ -26,6 +24,9 @@ There are not much instructions on each plot, just let the figures talk.
 - Sequential Color Palettes
 ![Sequential](data/sequential.png)
 
+- All Available Colors
+![color](data/all_colors.png)
+
 - Seaborn CheatSheet
 ![seaborn](data/Seaborn_Cheatsheet.png)
 
@@ -34,6 +35,12 @@ There are not much instructions on each plot, just let the figures talk.
 
 - Pandas CheatSheet
 ![Pandas](data/Pandas_Cheatsheet.png)
+
+- Line Styles 
+![line](data/line_style.png)
+
+- All Markers
+![marker](data/marker_shape.png)
 
 ## Contact
 
