@@ -3,3 +3,5 @@ pandas
 seaborn
 matplotlib
 scipy
+squarify 
+matplotlib_venn
